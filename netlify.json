@@ -1,8 +1,8 @@
 {
   "headers": [{
     "for": "/*",
-     "values": [
+     "values": 
        { "Can't-Be-Evil": "true" }
-     ]
+     
   }]
 }
