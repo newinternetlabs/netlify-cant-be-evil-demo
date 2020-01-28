@@ -1,0 +1,8 @@
+{
+  "headers": [{
+    "for": "/*",
+     "values": [
+       { "Can't-Be-Evil": "true" }
+     ]
+  }]
+}
